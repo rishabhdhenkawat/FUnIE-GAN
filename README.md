@@ -24,18 +24,7 @@ TensorFlow and PyTorch implementations of the paper *[Fast Underwater Image Enha
 - Preprint: https://arxiv.org/pdf/1903.09766.pdf
 - Datasets: http://irvlab.cs.umn.edu/resources/euvp-dataset
 - Bibliography entry for citation:
-	```
-	@article{islam2019fast,
-	    title={Fast Underwater Image Enhancement for Improved Visual Perception},
-	    author={Islam, Md Jahidul and Xia, Youya and Sattar, Junaed},
-	    journal={IEEE Robotics and Automation Letters (RA-L)},
-	    volume={5},
-	    number={2},
-	    pages={3227--3234},
-	    year={2020},
-	    publisher={IEEE}
-	}
-	```
+
 
 ### Underwater Image Enhancement: Recent Research and Resources 
 #### 2019
